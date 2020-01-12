@@ -166,6 +166,9 @@ textarea {
 
 form {
   padding-top: 50px;
+  font-family: "Anton", sans-serif;
+  font-size: 19px;
+
 }
 
 input {
@@ -174,8 +177,7 @@ input {
   border-left: 0;
   border-right: 0;
   border-bottom: 2px solid #919394;
-  font-family: "Anton", sans-serif;
-  font-size: 20px;
+
 }
 
 .share ::placeholder {
